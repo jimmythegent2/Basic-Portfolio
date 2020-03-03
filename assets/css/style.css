@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height 34px;
+    color: #ffffff;
+    background: url("../images/carbon_fibre.png")
+}
+
+header {
+    background-color: #ffffff;
+}
