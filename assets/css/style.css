@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
-    line-height 34px;
+    line-height: 34px;
     color: #777777;
     background: url("../images/carbon_fibre.png")
 }
@@ -40,9 +40,9 @@ h3 {
 }
 
 h1 {
-    padding-bottom: 20px;
+    padding-bottom: 25px;
     font-size: 30px;
-    line-height: 49px;
+    line-height: 5px;
     border-bottom: 3px solid #dddddd;
 }
 
@@ -105,11 +105,11 @@ nav a {
 .main-section {
     float: left;
     width: 100%;
-    max-width: 960px;
-    padding: 30px;
+    max-width: 980px;
+    padding: 20px;
     margin: 0 0 40px;
     background: #ffffff;
-    border: 1px solid #dddddd;
+    border: 5px solid #dddddd;
 }
 
 .auth-image {
