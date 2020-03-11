@@ -164,3 +164,14 @@ input[type=submit] {
     background: #4aaaa5;
     border: 0 none;
 }
+
+
+/* portfolio page */
+
+.work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+}
