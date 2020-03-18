@@ -155,8 +155,9 @@ h2 {
 }
 
 .work img {
-    width: 100%;
-    border: 0 none;
+    height: 274px;
+    width: 274px;
+    border: 10 none;
     opacity: 0.8;
 }
 
@@ -191,6 +192,10 @@ h2 {
 
 #contact-form li {
     margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
 }
 
 label,
